@@ -25,7 +25,7 @@ const EditProfileInput = [
 ];
 
 const userBtnPostORLiked = [
-  { name: "Posts", img: Posts_Icon },
+  // { name: "Posts", img: Posts_Icon },
   { name: "Liked", img: Like_Icon },
 ];
 
